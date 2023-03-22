@@ -1,3 +1,0 @@
-﻿  InvertirPalabrasArchivoTexto.cpp
-C:\Users\donat\source\repos\InvertirPalabrasArchivoTexto\InvertirPalabrasArchivoTexto.cpp(87,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-  InvertirPalabrasArchivoTexto.vcxproj -> C:\Users\donat\source\repos\InvertirPalabrasArchivoTexto\x64\Debug\InvertirPalabrasArchivoTexto.exe
