@@ -1,0 +1,5 @@
+﻿  convertidorNumeroAPalabra.cpp
+C:\Users\donat\source\repos\convertidorNumeroAPalabra\convertidorNumeroAPalabra.cpp(132,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\donat\source\repos\convertidorNumeroAPalabra\convertidorNumeroAPalabra.cpp(136,36): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+C:\Users\donat\source\repos\convertidorNumeroAPalabra\convertidorNumeroAPalabra.cpp(136,85): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+  convertidorNumeroAPalabra.vcxproj -> C:\Users\donat\source\repos\convertidorNumeroAPalabra\x64\Debug\convertidorNumeroAPalabra.exe
