@@ -1,15 +1,14 @@
 /*
-Realizar un programa C++ que simule un convertir de numeros a palabras
+Realizar un programa C++ que simule convertir de numeros a palabras
 
 PARTICIPANTES:
 Gregorio Estevez   -  1106269
 Guillermo Jorge    -  1107266
 Mario lora         -  1106278
-Donato Machado     -  1104816
+Donato Machadoï¿½   ï¿½- ï¿½1104816
 Francisco Taveras  -  1107975
 
 Fecha de realizacion:  9/2/2023
-Fecha de presentacion: 9/2/2023
 
 */
 #include <iostream>
